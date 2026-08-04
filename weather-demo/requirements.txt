@@ -1,0 +1,4 @@
+google-genai
+geopy
+requests
+openai-agents
