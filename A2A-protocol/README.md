@@ -45,10 +45,8 @@ python host_client.py
 
 ## Using it
 
-- Type anything (or just press enter) to get tonight's recipe suggestion
-  based on your current pantry.
-- Type a preference to steer it, e.g. `vegetarian`, `under 20 minutes`, `spicy`.
-- Type `add: tomatoes, basil, pasta` to add ingredients to your pantry.
-- Type `exit` to quit.
-
+- Type anything : 
+Example : 
+  - I want to eat something with chicken and rice.
+  - I want to eat something sweet and cold.
 
