@@ -1,0 +1,5 @@
+# mcp 2.x renamed FastMCP -> MCPServer and changed several APIs.
+# This project targets the FastMCP API described in the WorkOS article,
+# so it's pinned to the last 1.x release. To port to mcp>=2, see:
+# https://py.sdk.modelcontextprotocol.io/v2/migration/#fastmcp-renamed-to-mcpserver
+mcp==1.30.0
